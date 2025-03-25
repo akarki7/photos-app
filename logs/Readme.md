@@ -1,0 +1,1 @@
+# Contains all logs related to Photos APP Backend according to log level
