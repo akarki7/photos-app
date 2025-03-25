@@ -10,6 +10,7 @@ You need:
 
 * docker
 * docker-compose
+* uv
 
 ### For deployment
 
